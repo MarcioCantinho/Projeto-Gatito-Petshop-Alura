@@ -20,7 +20,7 @@ de vendas, faturamento, clientes e categorias de produtos.
 - Faturamento por Data
 - Filtros por Nome do Produto, Marca e Data de Compra
   
-### Imagens
+### :framed_picture: Imagens
 
 Visão geral/Layout utilizado
 
