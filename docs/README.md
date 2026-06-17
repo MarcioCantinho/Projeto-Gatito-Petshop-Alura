@@ -1,2 +1,1 @@
-Arquivo PBIX
-Base de dados
+Arquivo PBIX e Base de dados
