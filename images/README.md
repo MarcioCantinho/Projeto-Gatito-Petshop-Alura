@@ -1,1 +1,1 @@
-Visão geral do dashboard em jpg. e PDF e imagens da versão mobile. 
+Visão geral do dashboard em JPG e PDF e imagens da versão mobile. 
