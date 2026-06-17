@@ -5,13 +5,13 @@ Neste projeto, desenvolvido durante o Santander Imersão Digital, no curso Anál
 Desenvolvimento de projeto em Power BI para análise de desempenho
 de vendas, faturamento, clientes e categorias de produtos.
 
-### Tecnologias
+### :computer: Tecnologias
 - Power BI
 - Power Query
 - DAX
 - Excel
   
-### Principais KPIs
+### :chart_with_upwards_trend: Principais KPIs
 - Faturamento Total
 - Média de Pets
 - Quantidade de Vendas
