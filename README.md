@@ -22,7 +22,7 @@ de vendas, faturamento, clientes e categorias de produtos.
   
 ### Imagens
 
-Visão Geral/Layout utilizado
+Visão geral/Layout utilizado
 
 ### Arquivos
 - PBIX disponível para download.
