@@ -24,6 +24,6 @@ de vendas, faturamento, clientes e categorias de produtos.
 
 Visão geral/Layout utilizado
 
-### :file_folder:Arquivos
+### :file_folder: Arquivos
 - PBIX disponível para download.
 - Base de dados incluída.
