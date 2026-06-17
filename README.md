@@ -18,7 +18,7 @@ de vendas, faturamento, clientes e categorias de produtos.
 - Faturamento Total por Gênero
 - Faturamento Total por Bairro
 - Faturamento por Data
-- -Filtros por Nome do Produto, Marca e Data de Compra
+- Filtros por Nome do Produto, Marca e Data de Compra
   
 ### Imagens
 
