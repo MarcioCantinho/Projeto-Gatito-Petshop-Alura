@@ -22,9 +22,9 @@ de vendas, faturamento, clientes e categorias de produtos.
   
 ### :framed_picture: Imagens
 
--Visão geral
--Layout utilizado
--Layout móvel
+- Visão geral
+- Layout utilizado
+- Layout móvel
 
 ### :file_folder: Arquivos
 - PBIX disponível para download.
